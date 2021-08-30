@@ -30,7 +30,7 @@ case 1:
   nomes=nome;
     break;
 case 2:
-puts(nomes);
+
        break;
 case 3:
 break;
